@@ -1,8 +1,11 @@
 #!/usr/bin/env python
 #
+#  Copyright (c) 2015, Daniel Minnaar
 #  Copyright (c) 2013, 2015, Corey Goldberg
 #
-#  Dev: https://github.com/cgoldberg/py-slideshow
+#  Dev: https://github.com/dminnaar/py-slideshow
+#  Original: https://github.com/cgoldberg/py-slideshow
+#
 #  License: GPLv3
 
 
