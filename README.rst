@@ -2,6 +2,9 @@
 py-slideshow - image slideshow
 ==============================
 
+.. image:: https://travis-ci.org/dminnaar/py-slideshow.svg
+    :target: https://travis-ci.org/dminnaar/py-slideshow
+
 Random image slideshow in Python with OpenGL pan/zoom effects.
 
 .. image:: icon.png
